@@ -27,6 +27,6 @@ public class CheckRotationTest {
 
     @Test
     public void test5(){
-        Assert.assertEquals(false,isRotated("manoj",null));
+        Assert.assertEquals(false,isRotated("sai",null));
     }
 }

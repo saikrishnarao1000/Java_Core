@@ -6,7 +6,7 @@ import static Strings.VowelCount.vowelCountMethod;
 public class vowelCountTest {
     @Test
     public void test1() {
-        Assert.assertEquals(2, vowelCountMethod("manoj"));
+        Assert.assertEquals(2, vowelCountMethod("sai"));
     }
 
     @Test
